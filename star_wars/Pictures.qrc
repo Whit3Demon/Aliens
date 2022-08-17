@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/cannon">
+        <file>star wars/cannon.png</file>
+    </qresource>
+    <qresource prefix="/alien">
+        <file>star wars/alien.png</file>
+    </qresource>
+</RCC>
